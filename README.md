@@ -1,5 +1,5 @@
 <h1 align="center"> BrawlhallaPingChecker </h1>
-<p align="center"> A fork from <a href="https://github.com/Sentinent/BrawlhallaPingChecker"> Brawlhalla Ping Checker </a> by Sentinent, updated with the new regions<br></br>
+<p align="center"> A fork from <a href="https://github.com/Sentinent/BrawlhallaPingChecker"> Brawlhalla Ping Checker</a> by Sentinent, updated with the new regions<br></br>
 <a href="https://github.com/Darkissou/BrawlhallaPingChecker/releases/download/1.1/BrawlhallaPingChecker.exe"> Download here </a>
 </p>
 
