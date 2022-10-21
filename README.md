@@ -5,7 +5,7 @@
 
 <h2 align="center"> Screenshots </h2>
 <p align="center">
-<img src="http://i.imgur.com/izRmM5g.png"/>
-<img src="http://i.imgur.com/SwhmLKr.png"/>
-<img src="http://i.imgur.com/Z8vuRaj.png"/>
+<img src="https://i.imgur.com/4m9AOAX.png"/>
+<img src="https://i.imgur.com/NL5A75Y.png"/>
+<img src="https://i.imgur.com/qoKMKpD.png"/>
 </p>
