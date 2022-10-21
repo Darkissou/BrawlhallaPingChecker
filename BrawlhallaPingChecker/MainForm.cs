@@ -64,7 +64,13 @@ namespace BrawlhallaPingChecker
                         config.Add("Brazil, pingtest-brs.brawlhalla.com");
                         break;
                     case "AUSCheckbox":
-                           config.Add("Australia, pingtest-aus.brawlhalla.com");
+                        config.Add("Australia, pingtest-aus.brawlhalla.com");
+                        break;
+                    case "MDECheckbox":
+                        config.Add("Middle East, pingtest-mde.brawlhalla.com");
+                        break;
+                    case "SAFCheckbox":
+                        config.Add("South Africa, pingtest-saf.brawlhalla.com");
                         break;
                     default:
                         MessageBox.Show("crap");
